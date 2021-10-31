@@ -33,7 +33,7 @@ And the normal file checked in to git for local use looks like this:
 ```javascript
 export const EMU_PROT = 'http://';
 export const EMU_FS_HOST = 'localhost';
-export const EMU_AUTH_HOST = 'localhost';
+export const EMU_AUTH_HOST = 'localhost:9099';
 export const EMU_FS_PORT = '8080'; 
 ```
 
