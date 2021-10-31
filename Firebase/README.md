@@ -43,3 +43,8 @@ export const EMU_FS_PORT = '8080';
 Downloads an export from a projects Firestore. Since the cloud shell is already authenticated this will work without any additional configuration.
 
 **usage:** ./getFireStoreProdData.sh {*project name*}
+
+### getFunctionsConfig.sh
+Downloads the Firebase functions runtime config and outputs to .runtimeconfig.json. Script only created to remeber to download the config without remembering the command.
+
+**usage:** ./getFunctionsConfig.sh
