@@ -37,7 +37,6 @@ export const EMU_AUTH_HOST = 'localhost';
 export const EMU_FS_PORT = '8080'; 
 ```
 
-
 **usage:** ./generateFirebaseConfig.sh {*filename*}
 
 ### getFireStoreProdData.sh
